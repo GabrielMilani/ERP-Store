@@ -1,0 +1,70 @@
+#new-client {
+    border: 1px solid #999;
+    background-color: #fafafa;
+    padding: 1.5em 2em;
+    max-width: 70%;
+    margin: 2em auto;
+}
+
+#new-client h2 {
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 0;
+}
+
+#new-client form {
+    padding-bottom: 1.5em;
+    margin-bottom: 1em;
+}
+
+#edit-client {
+    border: 1px solid #999;
+    background-color: #fafafa;
+    padding: 1.5em 2em;
+    max-width: 70%;
+    margin: 2em auto;
+}
+
+#edit-client h2 {
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 0;
+}
+
+#edit-client form {
+    padding-bottom: 1.5em;
+    margin-bottom: 1em;
+}
+
+#client p {
+    text-align: center;
+}
+
+.message-container {
+    margin: 1em 0;
+    padding: 1.5em 2em;
+}
+
+.client-list {
+    margin: 1em;
+}
+
+.client-list .title {
+    margin: 2em;
+}
+
+.client-list .client {
+    border-top: 1px solid #363636;
+    margin: 2em auto;
+    padding: 1.5em 2em;
+}
+
+.client-list .client h4 {
+    margin-right: 2em;
+    display: inline;
+}
+
+.client-list .client svg {
+    margin-right: 1em;
+    display: inline;
+}

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D011C27-C688-4A67-9F31-2D3A03930D1F}|ERP_Store.Domain\\ERP_Store.Domain.csproj|c:\\dev\\comet\\backend\\erp_store\\erp_store.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D011C27-C688-4A67-9F31-2D3A03930D1F}|ERP_Store.Domain\\ERP_Store.Domain.csproj|solutionrelative:erp_store.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|c:\\dev\\comet\\backend\\erp_store\\erp_store.application\\usecases\\salecase\\updatesale\\updatesalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|solutionrelative:erp_store.application\\usecases\\salecase\\updatesale\\updatesalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|c:\\dev\\comet\\backend\\erp_store\\erp_store.application\\usecases\\salecase\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|solutionrelative:erp_store.application\\usecases\\salecase\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB2B185-BE22-4616-8A2B-818C35900A08}|ERP_Store.Api\\ERP_Store.Api.csproj|c:\\dev\\comet\\backend\\erp_store\\erp_store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB2B185-BE22-4616-8A2B-818C35900A08}|ERP_Store.Api\\ERP_Store.Api.csproj|solutionrelative:erp_store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|c:\\dev\\comet\\backend\\erp_store\\erp_store.application\\usecases\\productcase\\createproduct\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C92E8D4-8AFC-4AE7-80E4-5C1F5A0DABFE}|ERP_Store.Application\\ERP_Store.Application.csproj|solutionrelative:erp_store.application\\usecases\\productcase\\createproduct\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 483,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "ERP_Store.Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "ERP_Store.Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA4wCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:44:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateSaleHandler.cs",
+              "DocumentMoniker": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleHandler.cs",
+              "RelativeDocumentMoniker": "ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleHandler.cs",
+              "ToolTip": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleHandler.cs",
+              "RelativeToolTip": "ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:44:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateSaleRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleRequest.cs",
+              "RelativeDocumentMoniker": "ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleRequest.cs",
+              "ToolTip": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleRequest.cs",
+              "RelativeToolTip": "ERP_Store.Application\\UseCases\\SaleCase\\UpdateSale\\UpdateSaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:43:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ERP_Store.Api\\Program.cs",
+              "ToolTip": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Api\\Program.cs",
+              "RelativeToolTip": "ERP_Store.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:02:37.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\ProductCase\\CreateProduct\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "ERP_Store.Application\\UseCases\\ProductCase\\CreateProduct\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Dev\\Comet\\BackEnd\\ERP_Store\\ERP_Store.Application\\UseCases\\ProductCase\\CreateProduct\\CreateProductRequest.cs",
+              "RelativeToolTip": "ERP_Store.Application\\UseCases\\ProductCase\\CreateProduct\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:13:47.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

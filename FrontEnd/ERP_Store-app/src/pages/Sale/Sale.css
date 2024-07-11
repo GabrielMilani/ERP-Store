@@ -1,0 +1,74 @@
+#new-sale {
+    border: 1px solid #999;
+    background-color: #fafafa;
+    padding: 1.5em 2em;
+    max-width: 75%;
+    margin: 2em auto;
+}
+
+#new-sale h2 {
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 0;
+}
+
+#new-sale form {
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+#edit-sale {
+    border: 1px solid #999;
+    background-color: #fafafa;
+    padding: 1.5em 2em;
+    max-width: 75%;
+    margin: 2em auto;
+}
+
+#edit-sale h2 {
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 0;
+}
+
+#edit-sale form {
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+#sale p {
+    text-align: center;
+}
+
+.message-container {
+    margin: 1em 0;
+    padding: 1.5em 2em;
+}
+
+.sale-list {
+    margin: 1em;
+}
+
+.sale-list .title {
+    margin: 2em;
+}
+
+.sale-list .sale {
+    border-top: 1px solid #363636;
+    margin: 2em auto;
+    padding: 1.5em 2em;
+}
+
+.sale-list .sale h4 {
+    margin-right: 2em;
+    display: inline;
+}
+
+.sale-list .sale svg {
+    margin-right: 1em;
+    display: inline;
+}
+
+.actions svg {
+    cursor: pointer;
+}
